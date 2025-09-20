@@ -11,7 +11,7 @@
 
 launch vanilla minecraft 1.21.8 & open your resourcepacks folder, then close minecraft (resorcepacks folder is important later)
 
-download the fabric installer for windows & install for client 1.21.8(https://fabricmc.net/use/installer/)
+download the fabric installer for windows & install for client 1.21.8 (https://fabricmc.net/use/installer/)
 
 launch the new fabric instance in the instances list & close it
 
