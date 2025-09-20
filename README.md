@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/LGBTQ%2B_rainbow_flag_Quasar_%22Progress%22_variant.svg/1920px-LGBTQ%2B_rainbow_flag_Quasar_%22Progress%22_variant.svg.png" width="512"/>
+  <img src="https://github.com/FlutterCat555/gsa-mc-wiki/blob/main/servericon.png?raw=true" width="512"/>
 </p>
 
 
