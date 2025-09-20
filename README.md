@@ -1,4 +1,77 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/LGBTQ%2B_rainbow_flag_Quasar_%22Progress%22_variant.svg/1920px-LGBTQ%2B_rainbow_flag_Quasar_%22Progress%22_variant.svg.png" width="512"/>
+</p>
+
+
 # The SPHS GSA Minecraft Server Wiki 
+
+## How To Join:
+
+### Official Launcher (not recommended just due to instance issues and how mojang handles instances, but it works)
+
+launch vanilla minecraft 1.21.8 & open your resourcepacks folder, then close minecraft (resorcepacks folder is important later)
+
+download the fabric installer for windows & install for client 1.21.8(https://fabricmc.net/use/installer/)
+
+launch the new fabric instance in the instances list & close it
+
+in your resourcepacks folder, go back one level to your main minecraft folder
+
+look for a folder named mods, and navigate inside it.
+
+download the latest fabric api for 1.21.8 (https://modrinth.com/mod/fabric-api/versions)
+
+download automodpack (https://modrinth.com/mod/automodpack)
+
+put both in your mods folder and launch the game
+
+enter server details from discord
+
+there will be a prompt to download mods after joining the server, choose yes
+
+configure your settings
+
+relaunch your game and join the server :)
+
+### Prism Launcher ( recommended )
+go to prismlauncher and download it https://prismlauncher.org/
+
+log into your minecraft account 
+
+(prism is trustworthy, they do not steal your account.  if you want to check for yourself, it's open source https://github.com/PrismLauncher/PrismLauncher)
+
+then just add instance on fabric 1.21.8 latest (starred) version of fabric
+
+select it and click edit in the right sidebar
+
+select mods
+
+select download mods
+
+add automodpack (search for it)
+
+launch the game and enter server details
+
+there will be a prompt to download mods after joining the server, choose yes
+
+relaunch your game and join the server :)
+
+configure settinsg  to your prefrences 
+
+
+### Modrinth App ( untested )
+go to modrinth and download the modrinth app https://modrinth.com/app
+log into your minecraft account ( take note modrinth is not open source. it's not a stealer though. )
+then just add a new instance with the add instance button on the left with default fabric settings
+click on it and click add content
+add automodpack (search for it)
+launch the game and enter server details
+
+there will be a prompt to download mods after joining the server, choose yes
+
+configure your settings
+
+relaunch your game and join the server :)
 
 ## Mod List:
 
