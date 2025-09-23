@@ -97,7 +97,9 @@ Performance & library mods are not included, only mods that actually add content
   
 - Combat Amenities - A mod that adds a few small features related to combat, such as a back slot. (https://modrinth.com/mod/combat-amenities)
   
-- Comfortable Campfires Sitting by the campfire is now just a little more comfortable. Lit campfires now give nearby players Regeneration or Farmer's Delight's Comfort. (https://modrinth.com/mod/comfortable-campfires)
+- Comfortable Campfires - Sitting by the campfire is now just a little more comfortable. Lit campfires now give nearby players Regeneration or Farmer's Delight's Comfort. (https://modrinth.com/mod/comfortable-campfires)
+
+- Connectible Chains - Connect your fences with a decorative chain! (https://modrinth.com/mod/connectiblechains)
   
 - Drop Spread 2 - Adds a gamerule for player death item spread. (https://modrinth.com/mod/drop-spread-2)
   
